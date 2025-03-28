@@ -11,7 +11,7 @@ const projects = [
     title: "Sistema de Eventos em ASP.NET Core",
     description:
       "Desenvolvido do zero para gerenciamento de eventos, incluindo inscrições, emissão de certificados e dashboards de acompanhamento. Criado com ASP.NET Core e Entity Framework, integrando features como geração de relatórios e autenticação segura.",
-    images: [project1, project4],
+    images: [project1],
     links: {
       site: "#",
     },
