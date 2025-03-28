@@ -45,7 +45,7 @@ const Hero = () => {
             transition={{ duration: 1, delay: 1 }}
             className="text-gray-300 max-w-[300px] md:max-w-[500px] md:text-2xl text-lg mb-6"
           >
-            Eu sou Desenvolvedor Back-end com 2 anos de experiencia no mercado.
+            Eu sou Desenvolvedor Back-end com 2 anos de experiência no mercado.
           </motion.p>
 
           <motion.div

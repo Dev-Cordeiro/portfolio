@@ -12,15 +12,11 @@ const Contact = () => {
                 Sobre <span>Mim</span>
               </h3>
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Sou um desenvolvedor back-end apaixonado por criar soluções
-                práticas e eficientes,
-                Acredito no poder da colaboração e da inovação para resolver
-                problemas do mundo real.
-                <br />
-                Atualmente, trabalho na empresa Universidade Estadual do Tocantins, onde desenvolvo aplicações Webs
-                escaláveis e seguras para clientes. Nos meus tempos
-                livres, gosto de contribuir para projetos open source e aprender
-                novas linguagens de programação.
+              Olá! Eu sou um desenvolvedor de back-end apaixonado por criar soluções práticas e eficientes. 
+              Eu acredito que a colaboração e a inovação têm o poder de resolver problemas do mundo real. 
+              Eu moro no Brasil e sou empregado pela empresa Universidade Estadual do Tocantins, 
+              onde faço aplicações Web escaláveis e seguras para executar a criação de clientes. 
+              Após o expediente, adoro colaborar em projetos open-source e estudar novas linguagens de programação.
               </p>
             </div>
 
